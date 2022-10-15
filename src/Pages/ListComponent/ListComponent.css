@@ -1,0 +1,36 @@
+
+.list-component-overlay{
+    width: 100vw;
+    min-height: auto ;
+    background-color: rgba(0, 0, 0, 0.925);
+}
+
+.list-component-container{
+    width: 90%;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 40px 30px;
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list-component-card{
+    width: 22%;
+    height: auto;
+    margin-bottom: 0;
+    margin-left: 10px;
+    
+}
+
+.list-component-card img{
+    width:100%
+}
+
+.list-component-overlay h1{
+    color: #f1f1f1;
+    font-size: 3rem;
+    font-family: 'Arial';
+    padding: 30px 50px ;
+}
+

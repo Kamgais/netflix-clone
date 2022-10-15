@@ -1,0 +1,15 @@
+
+
+.signup-container{
+width: 100vw;
+height: 100vh;
+display: flex;
+flex-direction: column;
+}
+
+.signup-content{
+margin: 30px auto; 
+width: 30vw;
+   
+}
+
